@@ -5,6 +5,6 @@ Hands-on coding exercises built from real patterns and lessons learned across my
 
 This notebook tests your understanding of defensive coding, categorical data mapping, and precise row tracking within a pandas active learning pipeline.
 
-## Exercise 2: Robust Active Learning Data Pipelines
+## Exercise 2: XGBoost training pipeline
 
 This notebook tests your understanding of the XGBoost training pipeline you built — from class-imbalance weighting and stratified cross-validation to cutoff threshold analysis and probability calibration.
